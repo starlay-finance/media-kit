@@ -2,4 +2,4 @@
 
 ## Usage
 
-Follow our [guidelines](starlay_brand_guidelines.pdf).
+Follow our [guidelines](Digital%20Brand%20Guidelines/starlay_digital_brand_guidelines.pdf).
